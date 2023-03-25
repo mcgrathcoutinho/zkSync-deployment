@@ -1,6 +1,6 @@
 # zkSync-deployment
 
-This short experiment was a part of zkSync's Quickstart tutorial https://era.zksync.io/docs/dev/building-on-zksync/hello-world.html.
+This short experiment was a part of zkSync's Quickstart tutorial https://era.zksync.io/docs/dev/building-on-zksync/hello-world.html. Check master branch.
 
 Learnings:
 1. Deployment through L2
